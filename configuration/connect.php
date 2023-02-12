@@ -35,8 +35,3 @@
       }
    }
  }
-
-
- // variável que instancia a classe de conexão
- $teste = new Connection();
-
